@@ -4,12 +4,12 @@
 
 ## English
 
-**binexc does not control OTC prices.** Every OTC price comes from a fixed public formula and a daily key that is **sealed about 30 days in advance**. No user, trade, amount, direction, order or balance is ever an input, so prices cannot react to anyone's trade. Once a day is sealed, any change to its prices would no longer match the published proof. This repository lets anyone check that with mathematics.
+**binexc does not control OTC prices.** Every OTC price comes from a fixed public formula and a daily key whose fingerprint is **published before the day begins** (normally about 30 days ahead). No user, trade, amount, direction, order or balance is ever an input, so prices cannot react to anyone's trade. Once a day is sealed, any change to its prices would no longer match the published proof. This repository lets anyone check that with mathematics.
 
 ### How it works
 
 1. **A key for every UTC day.** Each day has its own 32-byte key: `dayKey = HMAC-SHA256(master, "binexc-otc-v4:" + YYYY-MM-DD)`.
-2. **Sealed 30 days ahead.** `SHA-256(dayKey)` (the *commitment*) is published here before the day begins — always about 30 days early (`commitments/`). A commitment reveals nothing about the key, but a different key would never match it.
+2. **Sealed before the day.** `SHA-256(dayKey)` (the *commitment*) is published here before the day begins — normally about 30 days early; each file records its exact `publishedAt` and has an OpenTimestamps receipt (`commitments/`, `timestamps/`). A commitment reveals nothing about the key, but a different key would never match it.
 3. **The day runs.** Prices come only from `generator/otc-v4-generator.mjs` with: the day key, the time, the market's fixed volatility, the day's start price (= the previous day's close) and the daily real-price alignment.
 4. **Revealed after the day ends.** Once every trade of that day has settled (normally at 00:00 UTC), the day key and each market's start price are published (`reveals/`). Today's and future keys are never published.
 5. **Check it.** Recompute any candle or trade price with the published key and compare it with binexc.com. A single changed price would no longer match.
@@ -50,7 +50,7 @@ binexc-এর OTC দাম **১০০% একটা নির্দিষ্�
 ### কীভাবে কাজ করে
 
 1. **প্রতিটা UTC দিনের আলাদা চাবি।** `dayKey = HMAC-SHA256(master, "binexc-otc-v4:" + YYYY-MM-DD)`।
-2. **৩০ দিন আগে সিল।** দিনটা শুরুর আগেই (প্রায় ৩০ দিন আগে) `SHA-256(dayKey)` — অর্থাৎ অঙ্গীকার — এখানে প্রকাশ হয় (`commitments/`)। এটা থেকে চাবি বের করা যায় না, কিন্তু অন্য কোনো চাবি এর সাথে কখনো মিলবে না।
+2. **দিন শুরুর আগেই সিল।** দিনটা শুরুর আগেই (সাধারণত প্রায় ৩০ দিন আগে; প্রতিটা ফাইলে সঠিক `publishedAt` ও OpenTimestamps রসিদ আছে) `SHA-256(dayKey)` — অর্থাৎ অঙ্গীকার — এখানে প্রকাশ হয় (`commitments/`)। এটা থেকে চাবি বের করা যায় না, কিন্তু অন্য কোনো চাবি এর সাথে কখনো মিলবে না।
 3. **দিন চলে।** দাম আসে শুধু `generator/otc-v4-generator.mjs` থেকে: দিনের চাবি, সময়, মার্কেটের স্থির volatility, দিনের শুরুর দাম (= আগের দিনের শেষ দাম) আর দৈনিক আসল-দামের সমন্বয়।
 4. **দিন শেষে প্রকাশ।** সেদিনের সব ট্রেড শেষ হলে (সাধারণত 00:00 UTC) চাবি ও প্রতিটা মার্কেটের শুরুর দাম প্রকাশ হয় (`reveals/`)। আজকের বা ভবিষ্যতের চাবি কখনো প্রকাশ হয় না।
 5. **নিজে যাচাই করুন।** প্রকাশিত চাবি দিয়ে যেকোনো ক্যান্ডেল বা ট্রেডের দাম নতুন করে হিসাব করে binexc.com-এর সাথে মিলিয়ে দেখুন। একটা দামও বদলালে আর মিলবে না।
