@@ -1,0 +1,12 @@
+{
+  "name": "binexc-otc-fairness",
+  "private": true,
+  "type": "module",
+  "description": "Verify binexc OTC prices",
+  "scripts": {
+    "verify": "node verify/verify.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

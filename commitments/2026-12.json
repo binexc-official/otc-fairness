@@ -1,0 +1,167 @@
+{
+  "version": "secure-v4",
+  "month": "2026-12",
+  "commitments": [
+    {
+      "version": "secure-v4",
+      "date": "2026-12-01",
+      "commitment": "8db89f4271d218b3660f4e87279cf1233314252c63661c1c25634b9a589211b9",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-02",
+      "commitment": "a2f017423fd330ed8ade03c0924b5386f4292f273713a524f3415c14d84c2d2b",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-03",
+      "commitment": "244447aa5b623bba82a329071638bf5e8d8053f5074f538bc23264be22fc3ea5",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-04",
+      "commitment": "a94cd11e16c48b37c0db3b2a53c3d4804191de49e152bec9e928a2b5c75e50c3",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-05",
+      "commitment": "8af4bb68c28bc76f9655e1f493ef9215165a373ed1f4f5033a58a8cc1b29672b",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-06",
+      "commitment": "80a6965c4076efb8bdc66dfae38b064123106f872309d8cd5b6512f4bdfeafe6",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-07",
+      "commitment": "40cc57711812f67f732c27de38a55becdba240da6fb34a2b08598100eabc9cee",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-08",
+      "commitment": "a978191f39cb20696576fd1f3bdccc3e02b4076190dee030285fd08538442835",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-09",
+      "commitment": "3d801ca78544d48d1e151f4e69b015bbaaa37dd152c67e488f711a60cc788e59",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-10",
+      "commitment": "d749d7c77ec0062974d053af5672e260ab845af6a8e785f0a80e3129d82caebc",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-11",
+      "commitment": "2ab179e8eabfd76e9f4240d7a8050a44cf4365577bd09e5aa047a700a7150508",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-12",
+      "commitment": "5a03dadb28ed90c4211f3ec160c0d9b9ea3961cb507b3975bac2aaaafd743ce5",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-13",
+      "commitment": "1fdb9b124ee0bc514e1a7686a6a06c3b41497cead60ce44ba33abe44e54130d3",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-14",
+      "commitment": "35c7a491b7bd0a78a4a0b1696de6918f069680c53ea393266e50862a84da9ad4",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-15",
+      "commitment": "13f055650cee35c9046d34d775df9d441127d0f7a2aa4e291edc327e74e7c97d",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-16",
+      "commitment": "aebe0930d5080b65b960bbf349a91153ec6858892534efc7f1014daf6bc6aa16",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-17",
+      "commitment": "83d375eee280e1254a441adb69543e3f92e0d75b6b4e8201ed853d1bae91318e",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-18",
+      "commitment": "6691c868180de221435a9877b5fa2e0d64ceb9c2b9560455b3a09ea4143e8130",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-19",
+      "commitment": "2fc952c0fbebc9e244591f5324869c47c27378ba62f3757be6ef9d7196d4a0e5",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-20",
+      "commitment": "76bcba20bf515448c84b426eea59db87ec45a1227214b65c47a2f562cd007a0d",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-21",
+      "commitment": "b0ed1d5a36c17da0fba58db4ac538ab3eba8d0f751e35edf2ea0de4f14224523",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-22",
+      "commitment": "a92dc833c383c1d8558bf8c7b456035c926eeafc0fdedf5eca2e5bbd55aa248c",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-23",
+      "commitment": "7a207f5178d70d1d587386ab545e6dfe3d23fd5529d66f22effcc066b2986783",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    }
+  ]
+}

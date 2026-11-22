@@ -1,0 +1,62 @@
+{
+  "version": "secure-v4",
+  "month": "2026-11",
+  "commitments": [
+    {
+      "version": "secure-v4",
+      "date": "2026-11-23",
+      "commitment": "4c86c0295ab33b381a69b0738fe0f56b5eb0c264063417d483eeb3299f945df5",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-11-24",
+      "commitment": "bfbaf651396eb9eb51b540999f8f54ef36363d8c791f2fb00e476a38ed81bb80",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-11-25",
+      "commitment": "550907fab7a39df8c59ca91086ae5b73eb437eed2b3b8e30b1bb2fd3f4d95785",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-11-26",
+      "commitment": "5adeedcf16f8b9f5dd9dcbf874b8832ad5897d2f32e828830efa0632ea2df620",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-11-27",
+      "commitment": "b7aadffba0d3c464b5fc4a8a3e63881f32cd67b8ffcb29f208a02436c19d62a4",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-11-28",
+      "commitment": "d0c9dd77ca7e2b7f989e1995877e3ba331bfd2243f94b4446c800ab35107b64d",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-11-29",
+      "commitment": "8486844473e125fa035e4bba00175c252ca5ed0e123099de820919079dbe873f",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-11-30",
+      "commitment": "6c9e919ecf6df885904beef63f6c0c0367ab96852848eef4bd251dd1c40c8005",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-22T07:11:55.413Z"
+    }
+  ]
+}
