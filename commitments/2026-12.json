@@ -162,6 +162,13 @@
       "commitment": "7a207f5178d70d1d587386ab545e6dfe3d23fd5529d66f22effcc066b2986783",
       "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
       "publishedAt": "2026-11-22T07:11:55.413Z"
+    },
+    {
+      "version": "secure-v4",
+      "date": "2026-12-24",
+      "commitment": "bfe66095daf04db4ef1f132822fda41b547ab979233cc0ddc2d9f5c746b58d50",
+      "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+      "publishedAt": "2026-11-23T00:00:01.827Z"
     }
   ]
 }
