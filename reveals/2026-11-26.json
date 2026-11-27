@@ -1,0 +1,425 @@
+{
+  "version": "secure-v4",
+  "date": "2026-11-26",
+  "dayKey": "33d46966177d8074085bd268fdc8179e12feb29b42564e26792f8645c9a07e29",
+  "commitment": "5adeedcf16f8b9f5dd9dcbf874b8832ad5897d2f32e828830efa0632ea2df620",
+  "generatorSha256": "982a140a19cbe47bb2e1db85f288f8dfe82977fb16ddc600496471de34bb30da",
+  "generatorCommit": null,
+  "markets": {
+    "V": {
+      "endLog": 0.012895199064424694,
+      "precision": 2,
+      "startPrice": 424.39,
+      "volatility": 0.28,
+      "referencePrice": 424.39
+    },
+    "BA": {
+      "endLog": -0.045841569539635245,
+      "precision": 2,
+      "startPrice": 164.53,
+      "volatility": 0.5,
+      "referencePrice": 164.53
+    },
+    "KO": {
+      "endLog": 0.006585621145994521,
+      "precision": 2,
+      "startPrice": 97.59,
+      "volatility": 0.22,
+      "referencePrice": 97.59
+    },
+    "MA": {
+      "endLog": 0.00854655667268932,
+      "precision": 2,
+      "startPrice": 659.9700000000001,
+      "volatility": 0.28,
+      "referencePrice": 659.97
+    },
+    "AMD": {
+      "endLog": -0.009944051343084478,
+      "precision": 2,
+      "startPrice": 406.03,
+      "volatility": 0.6,
+      "referencePrice": 406.03
+    },
+    "DIS": {
+      "endLog": 0.014085455774598729,
+      "precision": 2,
+      "startPrice": 124.46297614701894,
+      "volatility": 0.4,
+      "referencePrice": 125.6
+    },
+    "JPM": {
+      "endLog": 0.0061746756266108085,
+      "precision": 2,
+      "startPrice": 316.74,
+      "volatility": 0.3,
+      "referencePrice": 316.74
+    },
+    "PFE": {
+      "endLog": -0.015223344179366553,
+      "precision": 2,
+      "startPrice": 28.46,
+      "volatility": 0.34,
+      "referencePrice": 28.46
+    },
+    "WMT": {
+      "endLog": 0.01690935867268238,
+      "precision": 2,
+      "startPrice": 131.94,
+      "volatility": 0.26,
+      "referencePrice": 131.94
+    },
+    "AAPL": {
+      "endLog": 0.0020114018131341532,
+      "precision": 2,
+      "startPrice": 355.58,
+      "volatility": 0.32,
+      "referencePrice": 355.58
+    },
+    "AMZN": {
+      "endLog": -0.0012587242306548215,
+      "precision": 2,
+      "startPrice": 244.43,
+      "volatility": 0.38,
+      "referencePrice": 244.43
+    },
+    "BABA": {
+      "endLog": 0.0230019620898083,
+      "precision": 2,
+      "startPrice": 86.25999999999999,
+      "volatility": 0.52,
+      "referencePrice": 86.26
+    },
+    "INTC": {
+      "endLog": -0.012223170404725711,
+      "precision": 2,
+      "startPrice": 54.47,
+      "volatility": 0.44,
+      "referencePrice": 54.47
+    },
+    "META": {
+      "endLog": 0.020521417006261738,
+      "precision": 2,
+      "startPrice": 609.8899999999999,
+      "volatility": 0.45,
+      "referencePrice": 609.89
+    },
+    "MSFT": {
+      "endLog": 0.0019299314652380774,
+      "precision": 2,
+      "startPrice": 489.93000000000006,
+      "volatility": 0.32,
+      "referencePrice": 489.93
+    },
+    "NFLX": {
+      "endLog": -0.04879016416943205,
+      "precision": 2,
+      "startPrice": 120.05384636857245,
+      "volatility": 0.48,
+      "referencePrice": 59.41
+    },
+    "NVDA": {
+      "endLog": -0.04879016416943205,
+      "precision": 2,
+      "startPrice": 163.62917881095365,
+      "volatility": 0.65,
+      "referencePrice": 149.3
+    },
+    "TSLA": {
+      "endLog": -0.04879016416943205,
+      "precision": 2,
+      "startPrice": 380.14,
+      "volatility": 0.55,
+      "referencePrice": 380.14
+    },
+    "GOOGL": {
+      "endLog": 0.006469436768350753,
+      "precision": 2,
+      "startPrice": 273.1,
+      "volatility": 0.36,
+      "referencePrice": 273.1
+    },
+    "ADAUSD": {
+      "endLog": 0,
+      "precision": 4,
+      "startPrice": 0.4197395069741961,
+      "volatility": 0.85,
+      "referencePrice": null
+    },
+    "BCHUSD": {
+      "endLog": 0,
+      "precision": 2,
+      "startPrice": 314.4980429698972,
+      "volatility": 0.74,
+      "referencePrice": null
+    },
+    "BNBUSD": {
+      "endLog": 0,
+      "precision": 2,
+      "startPrice": 829.3500628164013,
+      "volatility": 0.72,
+      "referencePrice": null
+    },
+    "BTCUSD": {
+      "endLog": 0,
+      "precision": 2,
+      "startPrice": 55119.28119218516,
+      "volatility": 0.65,
+      "referencePrice": null
+    },
+    "DOTUSD": {
+      "endLog": 0,
+      "precision": 3,
+      "startPrice": 5.760761481630257,
+      "volatility": 0.86,
+      "referencePrice": null
+    },
+    "ETHUSD": {
+      "endLog": 0,
+      "precision": 2,
+      "startPrice": 2560.8887547573704,
+      "volatility": 0.7,
+      "referencePrice": null
+    },
+    "LTCUSD": {
+      "endLog": 0,
+      "precision": 2,
+      "startPrice": 75.76682709004612,
+      "volatility": 0.68,
+      "referencePrice": null
+    },
+    "SOLUSD": {
+      "endLog": 0,
+      "precision": 2,
+      "startPrice": 171.38324873046238,
+      "volatility": 0.9,
+      "referencePrice": null
+    },
+    "TONUSD": {
+      "endLog": 0,
+      "precision": 3,
+      "startPrice": 5.243341018267768,
+      "volatility": 0.84,
+      "referencePrice": null
+    },
+    "TRXUSD": {
+      "endLog": 0,
+      "precision": 4,
+      "startPrice": 0.17752789077116837,
+      "volatility": 0.7,
+      "referencePrice": null
+    },
+    "XRPUSD": {
+      "endLog": 0,
+      "precision": 4,
+      "startPrice": 0.914656803225365,
+      "volatility": 0.8,
+      "referencePrice": null
+    },
+    "AVAXUSD": {
+      "endLog": 0,
+      "precision": 3,
+      "startPrice": 16.921115246521055,
+      "volatility": 0.92,
+      "referencePrice": null
+    },
+    "DOGEUSD": {
+      "endLog": 0,
+      "precision": 4,
+      "startPrice": 0.15796039578794926,
+      "volatility": 0.95,
+      "referencePrice": null
+    },
+    "LINKUSD": {
+      "endLog": 0,
+      "precision": 3,
+      "startPrice": 12.152247321009332,
+      "volatility": 0.88,
+      "referencePrice": null
+    },
+    "SHIBUSD": {
+      "endLog": 0,
+      "precision": 8,
+      "startPrice": 0.000013460309385066474,
+      "volatility": 0.98,
+      "referencePrice": null
+    },
+    "MATICUSD": {
+      "endLog": 0,
+      "precision": 4,
+      "startPrice": 0.4307445847232382,
+      "volatility": 0.9,
+      "referencePrice": null
+    },
+    "AUDCAD_OTC": {
+      "endLog": -0.008654472774396493,
+      "precision": 5,
+      "startPrice": 0.9481551021220556,
+      "volatility": 0.08,
+      "referencePrice": 0.9402454545574694
+    },
+    "AUDUSD_OTC": {
+      "endLog": -0.0026688997070674547,
+      "precision": 5,
+      "startPrice": 0.6634533409851618,
+      "volatility": 0.095,
+      "referencePrice": 0.660818860298928
+    },
+    "EURGBP_OTC": {
+      "endLog": -0.0030873999768389385,
+      "precision": 5,
+      "startPrice": 0.8365050139733684,
+      "volatility": 0.07,
+      "referencePrice": 0.8369630522968973
+    },
+    "EURJPY_OTC": {
+      "endLog": 0.002632930532203974,
+      "precision": 3,
+      "startPrice": 174.5178563208943,
+      "volatility": 0.088,
+      "referencePrice": 174.5153941453788
+    },
+    "EURUSD_OTC": {
+      "endLog": -0.00011986994371150269,
+      "precision": 5,
+      "startPrice": 1.0959504630390706,
+      "volatility": 0.085,
+      "referencePrice": 1.096371011950444
+    },
+    "GBPJPY_OTC": {
+      "endLog": -0.0075337086066577935,
+      "precision": 3,
+      "startPrice": 208.62738824713176,
+      "volatility": 0.1,
+      "referencePrice": 208.5102725460247
+    },
+    "GBPUSD_OTC": {
+      "endLog": 0.0069923198047751505,
+      "precision": 5,
+      "startPrice": 1.3101540872221984,
+      "volatility": 0.09,
+      "referencePrice": 1.3099395593887297
+    },
+    "NZDUSD_OTC": {
+      "endLog": -0.004365186813329371,
+      "precision": 5,
+      "startPrice": 0.5475578645462306,
+      "volatility": 0.092,
+      "referencePrice": 0.5477156150983287
+    },
+    "USDBDT_OTC": {
+      "endLog": 0.0014938999373000324,
+      "precision": 3,
+      "startPrice": 124.682087,
+      "volatility": 0.12,
+      "referencePrice": 125.182224
+    },
+    "USDBRL_OTC": {
+      "endLog": 0.008190621412142744,
+      "precision": 4,
+      "startPrice": 5.894422,
+      "volatility": 0.15,
+      "referencePrice": 5.884106
+    },
+    "USDCAD_OTC": {
+      "endLog": -0.006888516769737636,
+      "precision": 5,
+      "startPrice": 1.429121,
+      "volatility": 0.08,
+      "referencePrice": 1.422849
+    },
+    "USDCHF_OTC": {
+      "endLog": -0.008807918458141162,
+      "precision": 5,
+      "startPrice": 0.836724,
+      "volatility": 0.078,
+      "referencePrice": 0.831365
+    },
+    "USDEGP_OTC": {
+      "endLog": -0.0034081216823448396,
+      "precision": 3,
+      "startPrice": 54.22590199999999,
+      "volatility": 0.16,
+      "referencePrice": 54.658948
+    },
+    "USDIDR_OTC": {
+      "endLog": -0.0033399368434217105,
+      "precision": 2,
+      "startPrice": 18227.123111,
+      "volatility": 0.12,
+      "referencePrice": 18309.043709
+    },
+    "USDINR_OTC": {
+      "endLog": -0.010967146093921284,
+      "precision": 3,
+      "startPrice": 92.925233,
+      "volatility": 0.11,
+      "referencePrice": 92.345212
+    },
+    "USDJPY_OTC": {
+      "endLog": 0.003204426211632213,
+      "precision": 3,
+      "startPrice": 159.238818,
+      "volatility": 0.082,
+      "referencePrice": 159.175491
+    },
+    "USDMXN_OTC": {
+      "endLog": 0.00983705725453032,
+      "precision": 4,
+      "startPrice": 19.375508,
+      "volatility": 0.14,
+      "referencePrice": 19.640737
+    },
+    "USDNGN_OTC": {
+      "endLog": 0.006055315014247282,
+      "precision": 2,
+      "startPrice": 1366.832855,
+      "volatility": 0.17,
+      "referencePrice": 1367.781989
+    },
+    "USDPHP_OTC": {
+      "endLog": -0.010944458973955387,
+      "precision": 3,
+      "startPrice": 63.769743,
+      "volatility": 0.12,
+      "referencePrice": 63.666286
+    },
+    "USDPKR_OTC": {
+      "endLog": -0.000944609178522123,
+      "precision": 3,
+      "startPrice": 276.39191,
+      "volatility": 0.13,
+      "referencePrice": 276.271679
+    },
+    "USDTRY_OTC": {
+      "endLog": 0.007929240017036234,
+      "precision": 4,
+      "startPrice": 50.669245,
+      "volatility": 0.16,
+      "referencePrice": 50.723306
+    },
+    "USDZAR_OTC": {
+      "endLog": 0.0009149951087273414,
+      "precision": 4,
+      "startPrice": 17.532655000000002,
+      "volatility": 0.15,
+      "referencePrice": 17.57915
+    }
+  },
+  "checks": {
+    "json": true,
+    "candles": [
+      "META:10m:2026-11-26T15:00:00.000Z",
+      "INTC:1h:2026-11-26T11:00:00.000Z",
+      "TONUSD:2m:2026-11-26T12:28:00.000Z",
+      "GBPUSD_OTC:15m:2026-11-26T01:45:00.000Z",
+      "AVAXUSD:30m:2026-11-26T12:30:00.000Z",
+      "USDPHP_OTC:15m:2026-11-26T16:15:00.000Z",
+      "AMZN:4h:2026-11-26T08:00:00.000Z",
+      "TRXUSD:2m:2026-11-26T21:44:00.000Z"
+    ],
+    "commitment": true,
+    "chainMarkets": 57
+  },
+  "revealedAt": "2026-11-27T00:00:00.881Z"
+}
